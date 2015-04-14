@@ -1,0 +1,23 @@
+﻿Build started 24/03/2015 19:50:03.
+     1>Project "C:\Users\Venom1724\Documents\Visual Studio 2013\Projects\INJECTORS\Injected\Injected.vcxproj" on node 3 (Build target(s)).
+     1>_MASM:
+         Assembling function.asm...
+         cmd.exe /C "C:\Users\Venom1724\AppData\Local\Temp\tmp5daa89bfbe564e87a31223158a803f04.cmd"
+         ml64.exe /c /nologo /Zi /Fo"x64\Release\function.obj" /W3 /errorReport:prompt  /Tafunction.asm
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _WINDLL /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(62): warning C4018: '<' : signed/unsigned mismatch
+     1>main.cpp(69): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Venom1724\Documents\Visual Studio 2013\Projects\INJECTORS\\Injector\bin\x64\Release\Injected.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Venom1724\Documents\Visual Studio 2013\Projects\INJECTORS\\Injector\bin\x64\Release\Injected.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Venom1724\Documents\Visual Studio 2013\Projects\INJECTORS\\Injector\bin\x64\Release\Injected.lib" /MACHINE:X64 /DLL x64\Release\main.obj
+         x64\Release\function.obj
+     1>LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+         Generating code
+         Finished generating code
+         Injected.vcxproj -> C:\Users\Venom1724\Documents\Visual Studio 2013\Projects\INJECTORS\\Injector\bin\x64\Release\Injected.dll
+     1>Done Building Project "C:\Users\Venom1724\Documents\Visual Studio 2013\Projects\INJECTORS\Injected\Injected.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.87

@@ -1,0 +1,30 @@
+Switch MO to 32bit if it's not already 
+it's good idea to play in windowed mode as well seems more stable
+unzip the injector and put the .dll file into the same folder
+launch MO
+before you login open mo.exe a box should pop up saying it was hooked
+now you're free to login and do whatever
+
+If you're creating a character for the first time don't hit "enter game" or it will crash. Use "save" and then pick the character from the selection screen.
+Suggested build is thursar-kallard max height, str and con. You don't need dex when you have a speedhack
+
+Controls
+Menu: Home button
+
+Player ESP: Creates a box around players. Current HP is included on the left side of the box. Red box for blues, Blue for greys/reds/ghosts and yellow for fledglings.
+Creatures ESP: Same deal as player except for NPC creatures
+Loot ESP: Boxes are placed around lootbags as well as the distance
+Loot teleport: When enabled, aiming at a lootbag and hitting use (default R) will teleport you to the lootbag and open it
+Teleport hack: Allows you to teleport. See controls below
+Speed hack: Change speed with -/+ on the numpad. *Keep speed below 290 when around other players or GMs
+Aim hack: Hold tab to select target, then press B to aim. *You're probably better off targeting things yourself
+Aim spot: Refers to the different body parts
+Jump hack: When enabled hold jump. Makes you immune to fall damage.
+
+Teleport:
+Aim at an object (player, npc, tree, sign, lootbag) and press Q (teleport hack must be enabled first).
+*If you teleport at a building you may end up underground or stuck inside an object
+The Delete key will send you to the priest in guttertown, hitting it again will take you back to where you were when you first hit it
+The End key will take you to the Tindrem Gardens priest.
+0 on the number pad will teleport you into the middle of Tindrem's mainstreet
+You can choose where the other numbers teleport you by holding the ctrl key and pressing the number

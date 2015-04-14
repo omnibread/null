@@ -1,0 +1,93 @@
+Tamer/Breeder 311s
+
+CON +10
+INT +5?
+
+CC +10
+Domestication +10
+
+Taming Book	250s
+Zoology Book	50s
+Campfire	10s
+Torch	1s
+
+Slag Hauler 25s
+
+STR +5
+CON +5
+INT +5
+
+Crafting Appliances 1
+Metallurgy 1
+Gathering 20
+Mining 20
+
+2 Pickaxes	2s
+2 Axes	2s
+Campfire	10s
+Torch	1s
+Basic Extraction	10s
+
+Sword Fighter
+
+STR +5
+DEX +6
+CON +6
+
+Anatomy 20
+
+Worn Shield
+Swords book
+Torch
+Campfire
+25 bandages
+
+Scout
+
+STR +6
+DEX +6
+CON +5
+
+Anatomy 10
+Archery 20
+Ranged Combat 20
+
+Worn bow
+25 Bodkin arrows
+Ranged Combat book
+Torch
+Campfire
+25 Bandages
+
+2 gold 2 skadite 6 jadeite 60 sea dew leaves per 10 pu = 45-48 hp
+1600 gold 1600 skadite 4800 jadeite 48000 sea dew for 8k keg
+
+-Books-
+Armour Training*, --Combat Manouvering 50, Athletics 50
+Feint*,
+Anatomy to 50, Damage Assessment*
+Taming to 60, Riding books*, Swimming books*
+MC/Charge/MA books, CC to 60,
+Passive Regen to 60, Combat Balance to 60, Landing tech
+
+Athletics skills, combat skills, riding skills, mounted combat skills
+
+PSY down, everything else up (when out of points STR down)
+Read something to level reading (riding? zoology?)
+Athletics and Combat Manouvering to 50
+Read armour training, riding, feint? and swimming books then anatomy and damage assessment then taming and CC
+
+
+Red accessible towns
+
+Cave Camp
+Gaul'Kor
+Jungle Camp
+Kranesh
+Meduli
+Mohki
+Vadda
+
+--Gather--
+muse flower, drakon, nymph herb, thymus, sea dew, gamun, salvia, honey, palm fruit, argus sponge,
+lesser tier: karuva, baselius, elaiva, phasel, common reedmace

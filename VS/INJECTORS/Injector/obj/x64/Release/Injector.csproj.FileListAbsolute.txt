@@ -1,0 +1,6 @@
+C:\Users\Venom1724\Documents\Visual Studio 2013\Projects\INJECTORS\Injector\bin\x64\Release\Injector.exe.config
+C:\Users\Venom1724\Documents\Visual Studio 2013\Projects\INJECTORS\Injector\bin\x64\Release\Injector.exe
+C:\Users\Venom1724\Documents\Visual Studio 2013\Projects\INJECTORS\Injector\bin\x64\Release\Injector.pdb
+C:\Users\Venom1724\Documents\Visual Studio 2013\Projects\INJECTORS\Injector\obj\x64\Release\Injector.csprojResolveAssemblyReference.cache
+C:\Users\Venom1724\Documents\Visual Studio 2013\Projects\INJECTORS\Injector\obj\x64\Release\Injector.exe
+C:\Users\Venom1724\Documents\Visual Studio 2013\Projects\INJECTORS\Injector\obj\x64\Release\Injector.pdb

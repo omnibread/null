@@ -1,0 +1,80 @@
+Bakti.x= -84800;
+Bakti.y= 6627;
+Bakti.z= 597 + 50.0f;
+
+CaveCamp.x= 137417;
+CaveCamp.y= 49475;
+CaveCamp.z= 3579 + 50.0f;
+
+CentralPriest.x= 32043;
+CentralPriest.y= -7043;
+CentralPriest.z= 1178 + 50.0f;
+
+*CeruliteRock.x= 63332;
+CeruliteRock.y= -198883;
+CeruliteRock.z= 1875 + 50.0f;
+
+*GaulKor.x= 189450;
+GaulKor.y= 147757;
+GaulKor.z= 2121 + 50.0f;
+
+*GreaterNatorus.x= 122022;
+GreaterNatorus.y= 90701;
+GreaterNatorus.z= 7975 + 50.0f;
+
+JungleCamp.x= -146900;
+JungleCamp.y= 85065;
+JungleCamp.z= -12122 + 50.0f;
+
+KraneshCave.x= 95260;
+KraneshCave.y= -39399;
+KraneshCave.z= 1417 + 50.0f;
+
+Kranesh.x= 96406;
+Kranesh.y= -31720;
+Kranesh.z= 2152 + 50.0f;
+
+Meduli.x= 11022;
+Meduli.y= -150132;
+Meduli.z= 818 + 50.0f;
+
+MohKi.x= -31059;
+MohKi.y= 78150;
+MohKi.z= 1081 + 50.0f;
+
+MorinKhur.x= 63306;
+MorinKhur.y= 133019;
+MorinKhur.z= 799 + 50.0f;
+
+TephraCrater.x= 153189;
+TephraCrater.y= 163761;
+TephraCrater.z= 10273 + 50.0f;
+
+Toxai.x= 49364;
+Toxai.y= 170589;
+Toxai.z= -17896 + 50.0f;
+
+Vadda.x= -20959;
+Vadda.y= -31500;
+Vadda.z= 477 + 50.0f;
+
+*VaddaRed.x= -26471;
+VaddaRed.y= -34354;
+VaddaRed.z= 837 + 50.0f;
+
+to-do
+Secret vendor
+GK -> CC cave
+Mino/Huegar cave
+Risar dungeon
+MeduliRed
+
+Tind Smuggler
+135810
+-126350
+101
+
+Tox Smuggler
+58550
+178266
+-19879
